@@ -7,7 +7,7 @@ To deploy the service on Cloud Run you would first need to follow these steps:
 * Deploy the service 
 
 ##Build the service
-The service is already built for you. Just go ahead and build the image in the next step.
+The service is already built for you. Just go ahead and create a Google Cloud Project  and in the project build the image in the next step.
 
 ###Optional
 If you are interested in starting from scratch then follow [this Quikstart](https://cloud.google.com/run/docs/quickstarts/build-and-deploy) to get the basic node.js service running.
